@@ -26,7 +26,7 @@ html, body{
         position: fixed;
         .wrapper-include;
         width:75%;
-        background-image: url("img/title.jpg");
+        background-image: url("img/title2.jpg");
         height: 150px;
         &-menu{
             height:100%;
